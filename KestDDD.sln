@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KestDDD.UI.Web", "KestDDD\KestDDD.UI.Web.csproj", "{4509370A-099C-4B8E-B39D-E1719190F3EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristDDD.Domain", "ChristDDD.Domain\ChristDDD.Domain.csproj", "{74CAA191-50F1-4013-A2B3-7F78A10BDBD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4509370A-099C-4B8E-B39D-E1719190F3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4509370A-099C-4B8E-B39D-E1719190F3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4509370A-099C-4B8E-B39D-E1719190F3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4509370A-099C-4B8E-B39D-E1719190F3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CAA191-50F1-4013-A2B3-7F78A10BDBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CAA191-50F1-4013-A2B3-7F78A10BDBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CAA191-50F1-4013-A2B3-7F78A10BDBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CAA191-50F1-4013-A2B3-7F78A10BDBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C93E070-471F-44D7-80A1-852914F8414A}
+	EndGlobalSection
+EndGlobal
