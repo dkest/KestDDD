@@ -5,15 +5,15 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KestDDD.UI.Web", "KestDDD\KestDDD.UI.Web.csproj", "{4509370A-099C-4B8E-B39D-E1719190F3EB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChristDDD.Domain", "ChristDDD.Domain\ChristDDD.Domain.csproj", "{74CAA191-50F1-4013-A2B3-7F78A10BDBD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KestDDD.Domain", "ChristDDD.Domain\KestDDD.Domain.csproj", "{74CAA191-50F1-4013-A2B3-7F78A10BDBD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristDDD.Domain.Core", "ChristDDD.Domain.Core\ChristDDD.Domain.Core.csproj", "{CCBAD8A4-FA13-4316-BBFC-01FE75713374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KestDDD.Domain.Core", "ChristDDD.Domain.Core\KestDDD.Domain.Core.csproj", "{CCBAD8A4-FA13-4316-BBFC-01FE75713374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristDDD.Infrastruct", "ChristDDD.Infrastruct\ChristDDD.Infrastruct.csproj", "{209697E6-5651-49FF-852A-25569DB94E37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KestDDD.Infrastruct", "ChristDDD.Infrastruct\KestDDD.Infrastruct.csproj", "{209697E6-5651-49FF-852A-25569DB94E37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristDDD.Infrastruct.Identify", "ChristDDD.Infrastruct.Identify\ChristDDD.Infrastruct.Identify.csproj", "{1ABF8782-3D83-46DB-8821-917BF494F89D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KestDDD.Infrastruct.Identify", "ChristDDD.Infrastruct.Identify\KestDDD.Infrastruct.Identify.csproj", "{1ABF8782-3D83-46DB-8821-917BF494F89D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristDDD.Application", "ChristDDD.Application\ChristDDD.Application.csproj", "{58325C76-F98D-4B16-80F6-9723CA86E8A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KestDDD.Application", "ChristDDD.Application\KestDDD.Application.csproj", "{58325C76-F98D-4B16-80F6-9723CA86E8A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
