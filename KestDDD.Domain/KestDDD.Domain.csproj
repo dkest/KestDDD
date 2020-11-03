@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ChristDDD.Domain.Core\KestDDD.Domain.Core.csproj" />
+    <ProjectReference Include="..\KestDDD.Domain.Core\KestDDD.Domain.Core.csproj" />
   </ItemGroup>
 
 </Project>
