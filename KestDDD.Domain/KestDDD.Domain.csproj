@@ -4,16 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="CommandHandlers\" />
-    <Folder Include="Events\" />
-    <Folder Include="EventHandlers\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Validations\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\KestDDD.Domain.Core\KestDDD.Domain.Core.csproj" />
-  </ItemGroup>
+ 
 
 </Project>
