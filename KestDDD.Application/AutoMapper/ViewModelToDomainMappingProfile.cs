@@ -3,11 +3,8 @@ using KestDDD.Application.ViewModels;
 using KestDDD.Domain.Commands;
 using KestDDD.Domain.Commands.Order;
 using KestDDD.Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace KestDDD.Application.AutoMapper
+namespace KestDDD.Application
 {
     public class ViewModelToDomainMappingProfile : Profile
     {
